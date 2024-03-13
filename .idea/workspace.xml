@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="iris analysis is finished">
       <change beforePath="$PROJECT_DIR$/iris_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iris_eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,11 +73,24 @@
       <workItem from="1710116703570" duration="5409000" />
       <workItem from="1710122654845" duration="13000" />
       <workItem from="1710276972823" duration="1359000" />
-      <workItem from="1710278564084" duration="11724000" />
+      <workItem from="1710278564084" duration="12088000" />
     </task>
+    <task id="LOCAL-00001" summary="iris analysis is finished">
+      <option name="closed" value="true" />
+      <created>1710291831359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710291831359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iris analysis is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="iris analysis is finished" />
   </component>
 </project>
