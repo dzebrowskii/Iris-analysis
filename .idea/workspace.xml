@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="Decision tree">
+    <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="Gradient boosting classifier">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iris_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iris_eda.ipynb" afterDir="false" />
     </list>
@@ -106,7 +106,8 @@
       <workItem from="1711790116327" duration="835000" />
       <workItem from="1711790979168" duration="1807000" />
       <workItem from="1711902433371" duration="4402000" />
-      <workItem from="1711986196002" duration="2234000" />
+      <workItem from="1711986196002" duration="2485000" />
+      <workItem from="1712056063112" duration="3855000" />
     </task>
     <task id="LOCAL-00001" summary="iris analysis is finished">
       <option name="closed" value="true" />
@@ -148,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711919893215</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Gradient boosting classifier">
+      <option name="closed" value="true" />
+      <created>1712012494282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712012494282</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +179,7 @@
     <MESSAGE value="analysis complete" />
     <MESSAGE value="nothing important" />
     <MESSAGE value="Decision tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decision tree" />
+    <MESSAGE value="Gradient boosting classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gradient boosting classifier" />
   </component>
 </project>
