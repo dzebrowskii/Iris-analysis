@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="handling with missing values different approach">
+    <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="radar plot, Parallel Coordinate, data standarization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iris_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iris_eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +108,8 @@
       <workItem from="1711902433371" duration="4402000" />
       <workItem from="1711986196002" duration="2485000" />
       <workItem from="1712056063112" duration="4933000" />
+      <workItem from="1712143162301" duration="14559000" />
+      <workItem from="1712261069682" duration="2834000" />
     </task>
     <task id="LOCAL-00001" summary="iris analysis is finished">
       <option name="closed" value="true" />
@@ -164,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712067436197</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="radar plot, Parallel Coordinate, data standarization">
+      <option name="closed" value="true" />
+      <created>1712183163966</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712183163967</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +199,7 @@
     <MESSAGE value="Decision tree" />
     <MESSAGE value="Gradient boosting classifier" />
     <MESSAGE value="handling with missing values different approach" />
-    <option name="LAST_COMMIT_MESSAGE" value="handling with missing values different approach" />
+    <MESSAGE value="radar plot, Parallel Coordinate, data standarization" />
+    <option name="LAST_COMMIT_MESSAGE" value="radar plot, Parallel Coordinate, data standarization" />
   </component>
 </project>
