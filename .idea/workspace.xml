@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71aed196-2dbe-4825-b8e0-131edfd8d551" name="Changes" comment="handling with categorical data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iris_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iris_eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +114,8 @@
       <workItem from="1712773989257" duration="5451000" />
       <workItem from="1712874687236" duration="971000" />
       <workItem from="1713129970770" duration="1492000" />
-      <workItem from="1713716972186" duration="611000" />
+      <workItem from="1713716972186" duration="653000" />
+      <workItem from="1714072841592" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="iris analysis is finished">
       <option name="closed" value="true" />
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712267507991</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="handling with categorical data">
+      <option name="closed" value="true" />
+      <created>1713718105010</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713718105010</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
