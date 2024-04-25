@@ -6,4 +6,3 @@ Exploratory Data Analysis (EDA) project of the Iris dataset, aimed at understand
 
 ## Authors
 ### Dominik Żebrowski
-### Maciej Rózio
